@@ -1,0 +1,6 @@
+# Google Colab ya incluye todas estas librerías
+tensorflow>=2.16      # probado con 2.21 (Keras 3.15)
+numpy
+pandas
+matplotlib
+scikit-learn
