@@ -1,6 +1,6 @@
 # Transformers — Mecanismo de atención y Transformer básico para series de tiempo
 
-**Repositorio:** URL_DEL_REPOSITORIO
+
 
 Implementación **desde cero en TensorFlow + Keras** de un mecanismo de atención y de un Transformer (Vaswani et al., 2017) para pronosticar la **temperatura mínima diaria de los próximos 7 días en Melbourne** a partir de los 60 días anteriores.
 
